@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * reset to 98 
- * @n: type pointer n
- *Description: using pointer as a perameter to update value to point to 98
- * return:value
+ * reset_to_98 - function with one argument
+ * @n: int type pointer n
+ *
+ * Description: using pointer as parameter to update value it points to 98
+ * Return: value
  */
 void reset_to_98(int *n)
 {
